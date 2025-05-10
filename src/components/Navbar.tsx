@@ -31,7 +31,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <img src='../src/static/img/logo_cloud_only-nobg.png' alt="Logo" className="h-8 w-8 ml-2" />
+            <img src='/img/logo_cloud_only-nobg.png' alt="Logo" className="h-8 w-8 ml-2" />
             <span className="ml-2 text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-blue-700">
               Zerulean Technologies
             </span>
