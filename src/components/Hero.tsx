@@ -36,6 +36,7 @@ const Hero: React.FC = () => {
             ref={taglineRef}
             className="text-4xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 via-blue-600 to-teal-500 animate-on-scroll opacity-0"
           >
+            ZERULEAN SOFTWARE DEVELOPMENT SERVICES<br />
             Taking your business, beyond the cloud
           </h1>
           
